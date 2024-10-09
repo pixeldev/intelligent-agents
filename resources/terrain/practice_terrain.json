@@ -1,0 +1,52 @@
+{
+  "0": {
+    "display_name": "Montaña",
+    "color": "#808080",
+    "movement_costs": {
+      "human": null,
+      "monkey": null,
+      "octopus": null,
+      "sasquatch": 15
+    }
+  },
+  "1": {
+    "display_name": "Tierra",
+    "color": "#fabf8f",
+    "movement_costs": {
+      "human": 1,
+      "monkey": 2,
+      "octopus": 2,
+      "sasquatch": 4
+    }
+  },
+  "2": {
+    "display_name": "Agua",
+    "color": "#02afff",
+    "movement_costs": {
+      "human": 2,
+      "monkey": 4,
+      "octopus": 1,
+      "sasquatch": null
+    }
+  },
+  "3": {
+    "display_name": "Arena",
+    "color": "#ffbf00",
+    "movement_costs": {
+      "human": 3,
+      "monkey": 3,
+      "octopus": null,
+      "sasquatch": null
+    }
+  },
+  "4": {
+    "display_name": "Bosque",
+    "color": "#96d250",
+    "movement_costs": {
+      "human": 4,
+      "monkey": 1,
+      "octopus": 3,
+      "sasquatch": 4
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "11": {
+    "display_name": "Peón Negro",
+    "color": "#808080",
+    "movement_costs": {
+      "human": null,
+      "monkey": null,
+      "octopus": null,
+      "sasquatch": null
+    }
+  },
+  "12": {
+    "display_name": "Camino",
+    "color": "#ffffff",
+    "movement_costs": {
+      "human": "1",
+      "monkey": "1",
+      "octopus": "1",
+      "sasquatch": "1"
+    }
+  }
+}
